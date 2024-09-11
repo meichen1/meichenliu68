@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Personal Page of Meichen Liu
+  Personal Website of Meichen Liu
 </h1>
 
 <p align="center">
@@ -14,7 +14,9 @@
 
 <p align="center">
  This website is based on v4 of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
- Many Thanks!
+
+Many Thanks!
+
 </p>
 
 ## 🎨 Color Reference
