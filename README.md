@@ -12,12 +12,11 @@
 
 ![demo](https://raw.githubusercontent.com/meichen1/meichenliu68/main/src/images/demo.png)
 
-<p align="center">
- This website is based on v4 of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+<br/><br/>
+
+This website is based on v4 of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>.
 
 Many Thanks!
-
-</p>
 
 ## 🎨 Color Reference
 
