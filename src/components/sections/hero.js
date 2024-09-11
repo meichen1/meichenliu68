@@ -37,7 +37,7 @@ const StyledHeroSection = styled.section`
 
   p {
     margin: 20px 0 0;
-    max-width: 540px;
+    max-width: 600px;
   }
 
   .email-link {
@@ -60,28 +60,24 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const two = <h2 className="big-heading">Meichen Liu</h2>;
+  const three = <h3 className="big-heading">I build DATA solutions.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        .
+        I'm a Data scientist in Healthcare and Biotechnology Industry. I enjoy applying Statistical
+        Analysis and Machine Learning for Forecasting, Data-Driven Innovation, Insight Extraction
+        and Decision Making. Definitely a team player!
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="https://www.linkedin.com/in/meichenliu5577/"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      Check out my LinkedIn!
     </a>
   );
 
